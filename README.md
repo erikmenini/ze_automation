@@ -29,13 +29,14 @@ Access the project in the path through terminal.
 
 <h3> Step 3</h3>
 Execute the command below:
-1
+
+Primeiro:
 
 ````bash
 gem install bundler
 ````
 
-2
+Segundo:
 
 ````bash
 bundle install
@@ -68,14 +69,19 @@ Access the project in the path through terminal.
 
 <h3> Step 3</h3>
 Execute the command below:
-1
+
+Primeiro:
+
 ````bash
 gem install bundler
 ````
-2
+
+Segundo:
+
 ````bash
 bundle install
 ````
+
 <h3> Step 4</h3>
 To execute the project run the command below:
 ````bash
