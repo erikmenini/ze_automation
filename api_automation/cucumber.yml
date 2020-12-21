@@ -1,0 +1,9 @@
+default: -p dev --publish-quiet
+wip: -p default -t @wip
+
+### Reports ###
+html_report: --format pretty -f html -o reports/features_report.html
+json_report: --format pretty -f json -o reports/features_report.json
+
+### Ambientes ###
+dev: ENVIRONMENT=dev
