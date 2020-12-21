@@ -29,11 +29,11 @@ Access the project in the path through terminal.
 
 <h3> Step 3</h3>
 Execute the command below:
- 1):
+1
 ````bash
 gem install bundler
 ````
-2):
+2
 ````bash
 bundle install
 ````
@@ -64,11 +64,11 @@ Access the project in the path through terminal.
 
 <h3> Step 3</h3>
 Execute the command below:
- Primeiro:
+1
 ````bash
 gem install bundler
 ````
-Segundo comando:
+2
 ````bash
 bundle install
 ````
