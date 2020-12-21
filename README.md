@@ -30,13 +30,17 @@ Access the project in the path through terminal.
 <h3> Step 3</h3>
 Execute the command below:
 1
+
 ````bash
 gem install bundler
 ````
+
 2
+
 ````bash
 bundle install
 ````
+
 <h3> Passo 4</h3>
 To execute the project run the command below:
 ````bash
